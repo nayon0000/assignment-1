@@ -37,8 +37,13 @@ color: #FFFFFF;
 background-color: #0D1321;
 border-radius: 8px;
 padding: 21px 24px;
-font-size: 18px;
 margin-top: 35px;
+}
+.btn-a{
+    text-decoration: none;
+    color: #FFFFFF;
+    font-size: 18px;
+
 }
 /* fast section end */
 .main-section{
@@ -47,10 +52,9 @@ margin-top: 35px;
     height: 1393px;
     margin: 0 auto;
     border-radius: 16px;
-    background-color: #dfe0e4;
+    background-color: #f4f5f5;
     padding-top: 10px;
     margin-bottom: 74px;
-
     
 }
 
@@ -86,6 +90,7 @@ margin-top: 35px;
     font-size: 18px;
     font-weight: 500;
     color: #0D1321;
+    cursor: pointer;
 }
 .main-section-div-h2{
     font-size: 24px;
@@ -192,10 +197,10 @@ padding: 40px;
     font-weight: 700;
 }
 /* section 4 end */
-.footer{
+.last-page{
    
 }
-.footer-main-div{
+.last-page-div{
     width: 1140px;
     height: 313px;
     border: solid 0px;
@@ -208,16 +213,16 @@ padding: 40px;
     
     
 }
-.footer-hade{
+.last-page-head{
     text-align: center;
     
 }
-.footer-h1{
+.last-page-h1{
 color: #FFFFFF;
 font-size: 32px;
 font-weight: bold;
 }
-.footer-p{
+.last-page-p{
 color: #FFFFFF;
 font-size: 18px;
 font-weight: 500;
@@ -240,7 +245,7 @@ font-weight: 500;
     border-radius: 8px;
     font-size: 20px;
     font-weight: 600;
-    outline: #FFFFFF;
+    cursor: pointer;
     
     
 }
@@ -250,8 +255,8 @@ font-weight: 500;
     gap: 25px;
     margin-top:35px;
 }
-/*footer-main-part-end*/
-/* webpage last part start */
+/*section 5 end*/
+/* footer start */
 .last-background{
     height: 100px;
     background-color: #eeeff1;

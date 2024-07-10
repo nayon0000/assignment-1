@@ -8,8 +8,13 @@
 /* header background and others */
 .header-section{
 background-image: url(assets/Hero-bg.png);
-width: 1440px;
+width: 1358px;
 height: 652px;
+margin: 0 auto;
+margin-bottom: 74px;
+align-items: center;
+text-align: center;
+
 
 
 }
@@ -44,6 +49,8 @@ margin-top: 35px;
     border-radius: 16px;
     background-color: #dfe0e4;
     padding-top: 10px;
+    margin-bottom: 74px;
+
     
 }
 
@@ -97,6 +104,8 @@ margin-top: 35px;
     margin: 0 auto;
     text-align: center;
     gap:24px;
+    margin-bottom: 74px;
+
 }
 .section-3-video-border{
     width: 1140px;
@@ -128,6 +137,10 @@ margin-top: 35px;
     width: 1140px;
     height: 520px;
     margin: 50px auto;
+    margin-bottom: 74px;
+    margin-top: 150px;
+
+
     
 
 }
@@ -238,3 +251,33 @@ font-weight: 500;
     margin-top:35px;
 }
 /*footer-main-part-end*/
+/* webpage last part start */
+.last-background{
+    height: 100px;
+    background-color: #eeeff1;
+    margin: 0 auto;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 35px 150px;
+    margin-top: 75px;
+
+}
+.nav-li{
+    list-style: none;
+    
+}
+.nav{
+    display: flex;
+    width: 157px;
+    height: 36px;
+    gap:25px;
+
+}
+.last-background-titel{
+    font-size: 20px;
+    font-weight: 600;
+    
+}
+.body{
+}
